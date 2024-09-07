@@ -24,6 +24,7 @@ h1 {
     font-family: "Gochi Hand", cursive; /* Define a fonte padrão */
     font-size: 4rem; /* Tamanho da fonte */
     color: #222831; /* Cor do texto */
+    text-shadow: 1.5px 1.5px 1px #FFFFFF;
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
@@ -191,6 +192,6 @@ footer {
     }
 
     footer {
-        font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
+        font-size: 0.7rem; /* Tamanho da fonte do rodapé em telas pequenas */
     }
 }
