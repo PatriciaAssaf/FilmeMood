@@ -56,7 +56,6 @@ function pesquisar() {
             <a href="${filmeSelecionado.link}" target="_blank">Mais informações</a>
         </div>
     `;
-
     
     // Atribui o resultado gerado à seção HTML
     section.innerHTML = resultado;
